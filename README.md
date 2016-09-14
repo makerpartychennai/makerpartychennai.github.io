@@ -1,4 +1,1 @@
-mozillamakerparty
-=================
-
-Website for mozilla maker party chennai
+# makerpartychennai2016
